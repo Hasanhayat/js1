@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: linear-gradient(150deg, rgba(255, 166, 0, 0.623) ,white, rgba(0, 128, 0, 0.548), rgba(0, 0, 255, 0.5), rgba(255, 0, 0, 0.397));
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 3rem;
+    width: 5rem;
+    border-radius: 30px;
+    outline: none;
+    font-size: 15px;
+    font-family: cursive;
+}
